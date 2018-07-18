@@ -57,6 +57,7 @@
     <plugin name="cordova-plugin-zip" source="npm" spec="3.1.0" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="1.2.2" />
     <plugin name="cordova-sqlite-storage-pgb" source="git" spec="https://github.com/mendix/Cordova-sqlite-storage-pgb.git#storage-master" />
+    <plugin name="cordova-plugin-pdf-viewer" source="git" spec="https://github.com/cdibened/PDFViewer.git" />
     <!-- <plugin name="uk.co.workingedge.phonegap.plugin.launchnavigator" source="npm" version="2.9.11"/> -->
     <!-- <plugin name="cordova-plugin-wkwebview-engine-nextgen" source="npm" spec="^1.1.0" /> -->
     <plugin name="adobe-mobile-services" source="npm"/>

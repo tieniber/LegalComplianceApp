@@ -86,7 +86,7 @@ function registerSaml() {
         return window.dojoConfig;
     }, function() {
         console.log("Configured SAML login")
-        //window.dojoConfig.ui.customLoginFn = samlLogin;
+        window.dojoConfig.ui.customLoginFn = samlLogin;
     }, function() {
         console.log("Could not override login");
     }, 180000, 50);
